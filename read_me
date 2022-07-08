@@ -1,0 +1,2 @@
+Pour utiliser ce programme, utiliser le makefile puis lancer l'executable tp_jeux. La fonction main guide vers le jeu et le mode choisi.
+Quant à la profondeur maximale, il faut la régler dans les modules respectifs des jeux. (ligne 305 pour Nim, ligne 804 pour Puissance 4) 
